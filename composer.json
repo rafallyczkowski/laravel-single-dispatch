@@ -1,5 +1,5 @@
 {
-  "name": "laravel-single-dispatch",
+  "name": "mbm-rafal/laravel-single-dispatch",
   "description": "Laravel Dispatcher extension for maintaining duplicate jobs",
   "keywords": ["laravel", "middleware", "dispatched"],
   "version": "1.0.0",
