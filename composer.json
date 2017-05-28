@@ -7,6 +7,9 @@
   "require": {
     "php": ">=5.5.9"
   },
+  "require-dev": {
+    "kahlan/kahlan": "^3.1"
+  },
   "autoload": {
     "psr-4": {
       "MBM\\": "src/"
